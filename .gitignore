@@ -1,0 +1,9 @@
+db.sqlite3
+*.mo
+*.js.map
+.env/
+myprojectvenv/
+static/
+media/
+*/migrations/
+*.pyc
